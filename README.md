@@ -10,6 +10,11 @@ Stitches images while also adding a bar on the right, with the option to make th
 - Inner sidebar width: Fade out of the main image into the sidebar
 - Outer sidebar width: Fade into the main image from the sidebar
 
+### Modes
+
+- No fade: Leave sidebar file and sidebar fade widths as is
+- Fade: Select sidebar file and set sidebar fade widths as desired
+
 ## Saving settings
 
 A `WatermarkStitcher.config` file is automatically created and updated each time the stitcher is run successfully. This config file saves the selected files and settings used when `Stitch!` was pressed so that it can be used again in the future.
