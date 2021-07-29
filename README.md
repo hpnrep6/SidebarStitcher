@@ -5,6 +5,11 @@ Stitches images while also adding a bar on the right, with the option to make th
 ## UI
 ![ex](https://user-images.githubusercontent.com/57055412/127446290-e7ef6be1-f1ac-4f72-90ba-f812a1e41d2f.png)
 
+### Terms
+
+- Inner sidebar width: Fade out of the main image into the sidebar
+- Outer sidebar width: Fade into the main image from the sidebar
+
 ## Saving settings
 
 A `WatermarkStitcher.config` file is automatically created and updated each time the stitcher is run successfully. This config file saves the selected files and settings used when `Stitch!` was pressed so that it can be used again in the future.
