@@ -10,3 +10,7 @@ Stitches images while also adding a bar on the right, with the option to make th
 A `WatermarkStitcher.config` file is automatically created and updated each time the stitcher is run successfully. This config file saves the selected files and settings used when `Stitch!` was pressed so that it can be used again in the future.
 
 Clicking `Clear saved settings` will delete this file.
+
+## Example
+
+![stitched-sb_1627542655903](https://user-images.githubusercontent.com/57055412/127447886-1ea4f835-306a-4633-bba9-b3495efaa4b1.png)
