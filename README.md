@@ -15,6 +15,10 @@ Stitches images while also adding a bar on the right, with the option to make th
 - No fade: Leave sidebar file and sidebar fade widths as is
 - Fade: Select sidebar file and set sidebar fade widths as desired
 
+### Text fields
+
+Press `Enter` to enter your input into the application.
+
 ## Saving settings
 
 A `WatermarkStitcher.config` file is automatically created and updated each time the stitcher is run successfully. This config file saves the selected files and settings used when `Stitch!` was pressed so that it can be used again in the future.
